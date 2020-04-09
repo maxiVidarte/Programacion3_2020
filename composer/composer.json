@@ -1,0 +1,12 @@
+{
+    "name": "maximiliano/programacion3_2020",
+    "authors": [
+        {
+            "name": "maxiVidarte",
+            "email": "maxiavidarte@gmail.com"
+        }
+    ],
+    "require": {
+        "namnv609/php-rest-countries": "^1.0"
+    }
+}
